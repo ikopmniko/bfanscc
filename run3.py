@@ -21,10 +21,10 @@ def read_csv_range(filename, start, end):
         rows = [row[0] for i, row in enumerate(csv.reader(f)) if start <= i < end]
     return rows
 
-start_row = 4000
-end_row = 4250
+start_row = 4250
+end_row = 4500
 
-email = "ahrulsatyaraya"
+email = "kaylaaflafathinaa"
 password = "@@Eskepal123"
 
 # Baca judul video sesuai rentang yang diinginkan
@@ -52,7 +52,7 @@ for title in titles:
         konten = f'''
         18 minutes ago - Access {title} Leaked Onlyfans New video For Download {title} Nudes
 
-        LINK ⏩⏩ https://topallfans.web.app?title={modif_kata}
+        LINK ⏩⏩ https://kifansqu.web.app?title={modif_kata}
 
         {title} Leaked onlyfans update New Files 2025 ++ Download  - you'll be able to download and preview all content from {title} Onlyfans in just a few clicks.
         '''
