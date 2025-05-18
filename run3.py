@@ -21,10 +21,10 @@ def read_csv_range(filename, start, end):
         rows = [row[0] for i, row in enumerate(csv.reader(f)) if start <= i < end]
     return rows
 
-start_row = 0
-end_row = 250
+start_row = 250
+end_row = 500
 
-email = "oflehjelsa"
+email = "EmiTalakuaGaredja"
 password = "@@Eskepal123"
 
 # Baca judul video sesuai rentang yang diinginkan
@@ -47,7 +47,7 @@ time.sleep(5)
 for title in titles:
     try:
         modif_kata = title.replace(' ', '_')
-        kw = f'{title} Leaked Onlyfans New Uploaded ({random_string(5)})'
+        kw = f'{title} Leaked Onlyfans - New Update Files ({random_string(5)})'
 
         konten = f'''
         18 minutes ago - Access {title} Leaked Onlyfans New video For Download {title} Nudes
